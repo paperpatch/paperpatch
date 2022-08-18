@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Pat</h1>
 <h3 align="center">Check out my <a href="https://patrickchen.dev/">portfolio</a>!</h3>
 
-- 🔭 I’m currently working on automation intelligence
+- 🔭 I’m currently working on automation and integration testing
 
-- 🌱 Currently learning Typescript and Angular
+- 🌱 Currently learning Typescript and Selenium
 
 - 🚴‍♂️ Outdoor hobbies include various sports such as volleyball, tennis, cycling, and hiking
 
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
 </p>
