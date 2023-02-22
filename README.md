@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Pat</h1>
 <h3 align="center">Check out my <a href="https://patrickchen.dev/">portfolio</a>!</h3>
 
-- 🔭 I’m currently working on automation and integration testing
+- 🔭 I’m working on automation and integration testing
 
 - 🌱 Currently learning Typescript and Selenium
 
-- 🚴‍♂️ Outdoor hobbies include various sports such as volleyball, tennis, cycling, and hiking
+- 🚴‍♂️ Outdoor hobbies include various sports such as volleyball, pickleball, cycling, and snowboarding
 
-- 🎲 Indoor hobbies include board games, video games and custom mechanical keyboards
+- 🎲 Indoor hobbies include board games, video games, and custom mechanical keyboards
 
 <!-- Icons can be found @ https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact- -->
 
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
@@ -50,6 +51,7 @@
 <p float="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ## ☁ Cloud
