@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Pat</h1>
+<h1 align="center">Hi &#128075, I'm Pat</h1>
 <h3 align="center">Check out my <a href="https://patrickchen.dev/">portfolio</a>!</h3>
 
 - 🔭 I’m working on passion projects
 
-- 🌱 Currently learning Cyber security and Machine AI
+- 🌱 Currently learning Machine AI
 
-- 🚴‍♂️ Outdoor hobbies include various sports such as volleyball, pickleball, cycling, and snowboarding
+- 🚴‍♂️ Outdoor hobbies include various sports such as volleyball and climbing
 
 - 🎲 Indoor hobbies include board games, video games, and custom mechanical keyboards
 
