@@ -5,9 +5,9 @@
 
 - 🌱 Currently learning Machine AI
 
-- 🚴‍♂️ Outdoor hobbies include various sports such as volleyball and climbing
+- 🚴‍♂️ Outdoor hobbies includes various sports such as volleyball and climbing
 
-- 🎲 Indoor hobbies include board games, video games, and custom mechanical keyboards
+- 🎲 Indoor hobbies includes board games, video games, and custom mechanical keyboards
 
 <!-- Icons can be found @ https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact- -->
 
